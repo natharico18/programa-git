@@ -1,0 +1,2 @@
+nombre: Nathalia Andrea Rico
+correo_electronico: nathaliacalderon75@gmail.com
